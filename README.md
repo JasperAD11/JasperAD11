@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m passionate about leveraging **data, technology, and 
 - LinkedIn: https://www.linkedin.com/in/jaspersaenger/
 
 ### ⚡ Fun Fact
-- [Basketball fanatic]
+- Basketball fanatic
 
 ---
 
