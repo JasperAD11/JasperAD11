@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m passionate about leveraging **data, technology, and 
 - 📊 Predicting Tenant Compatibility in Co-Living Setting (My Master Thesis)
 
 ### 🌱 Currently Learning
-- Python, SQL, Power BI, and [add other tools or frameworks]
+- Python, SQL, R & Tableau
 
 ### 🧠 Ask Me About
 - Data Analytics, Automation, Dashboards, and Problem Solving
