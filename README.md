@@ -29,20 +29,8 @@ Exploring how analytics can ease the luck involved in pairing tenants by identif
 
 ---
 
-### 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspersaenger/)
-[![Instagram](https://www.instagram.com/jaspersaenger11/)
-
----
-
 ### 🧰 Languages and Tools
 <img src="https://skillicons.dev/icons?i=python,sql,git,R,vscode&theme=light" />
-
----
-
-### 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasperAD11&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JasperAD11&layout=compact&theme=default)
 
 ---
 
