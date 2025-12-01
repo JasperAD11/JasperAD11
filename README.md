@@ -1,26 +1,31 @@
 # 👋 Hi, I'm Jasper Sänger
 
-### 🎯 Business Analytics & Tech Enthusiast 
+### 🎯 Analytics with a Business Edge
 
-Welcome to my GitHub! I’m passionate about leveraging **data, technology, and creativity** to drive better business outcomes.
+Operations mindset. Global perspective. Data-driven problem solving.
+This GitHub is where those pieces come together.
 
 ---
 
 ### 🔭 Currently Working On
-- 📊 Predicting Tenant Compatibility in Co-Living Setting (My Master Thesis)
+- 📊 Master’s Thesis: Predicting Tenant Compatibility in Co-Living
+Exploring how analytics can ease the luck involved in pairing tenants by identifying patterns that support more intentional, data-informed matching as the co-living sector grows.
 
-### 🌱 Currently Learning
+### 🌱 Working Proficiencies
 - Python, SQL, R & Tableau
 
 ### 🧠 Ask Me About
-- Data Analytics, Automation, Dashboards, and Problem Solving
+- Turning business questions into analytical approaches
+- Building dashboards and performance insights
+- Process analysis & operations-focused problem solving
+- Predictive modeling projects (like my co-living compatibility thesis)
 
 ### 📫 How to Reach Me
 - Email: jaspersaenger@gmail.com / s-jsanger@ucp.pt
 - LinkedIn: https://www.linkedin.com/in/jaspersaenger/
 
 ### ⚡ Fun Fact
-- Basketball fanatic
+- I probably talk about basketball more than I should.
 
 ---
 
@@ -41,4 +46,4 @@ Welcome to my GitHub! I’m passionate about leveraging **data, technology, and 
 
 ---
 
-### 💬 "Turning data into direction, and ideas into impact."
+### 💬 "Understanding how people and numbers shape each other.."
