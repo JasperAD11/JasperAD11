@@ -1,37 +1,44 @@
-# 👋 Hi, I'm Jasper Sänger
+# Hi, I'm Jasper Sänger
 
-### 🎯 Analytics with a Business Edge
+I recently completed my Master's in Business Analytics at Católica Lisbon and have a background spanning analytics, operations, and international business. I am particularly interested in work at the intersection of data, decision-making, and real-world operations, especially in housing, sports, and consumer-facing environments.
 
-Operations mindset. Global perspective. Data-driven problem solving.
-This GitHub is where those pieces come together.
+This GitHub brings together academic projects, applied analytics work, and side projects in Python, R, SQL, and Tableau.
 
----
+## Current Work
 
-### 🔭 Currently Working On
-- 📊 Master’s Thesis: Predicting Tenant Compatibility in Co-Living
-Exploring how analytics can ease the luck involved in pairing tenants by identifying patterns that support more intentional, data-informed matching as the co-living sector grows.
+**Master’s Thesis — Co-Living Tenant Compatibility**  
+Building a structured compatibility framework for co-living tenant allocation. The project explores how personality, lifestyle, and apartment-level factors can support more intentional matching and better vacancy-level recommendations.
 
-### 🌱 Working Proficiencies
-- Python, SQL, R & Tableau
+**Basketball Community / Fitness Side Project**  
+Developing a basketball-centered community concept focused on runs, workouts, and social energy around the game in Berlin.
 
-### 🧠 Ask Me About
-- Turning business questions into analytical approaches
-- Building dashboards and performance insights
-- Process analysis & operations-focused problem solving
-- Predictive modeling projects (like my co-living compatibility thesis)
+## Focus Areas
 
-### 📫 How to Reach Me
-- Email: jaspersaenger@gmail.com / s-jsanger@ucp.pt
-- LinkedIn: https://www.linkedin.com/in/jaspersaenger/
+- Business analytics and decision support
+- Operations and process improvement
+- Predictive modeling and experimentation
+- Recommender and matching systems
+- Dashboarding and performance analysis
+- Housing and sports-related problem spaces
 
-### ⚡ Fun Fact
-- I probably talk about basketball more than I should.
+## Tools
 
----
+- Python
+- SQL
+- R
+- Tableau
+- Git
 
-### 🧰 Languages and Tools
-<img src="https://skillicons.dev/icons?i=python,sql,git,R,vscode&theme=light" />
+## Background
 
----
+I have worked across operational and analytical roles, including experience in co-living and fitness environments. My work tends to focus on translating business questions into structured analysis and practical recommendations.
 
-### 💬 "Understanding how people and numbers shape each other.."
+## Contact
+
+- Email: jaspersaenger@gmail.com  
+- University: s-jsanger@ucp.pt  
+- LinkedIn: [linkedin.com/in/jaspersaenger](https://www.linkedin.com/in/jaspersaenger/)
+
+## Note
+
+Most repositories here reflect coursework, thesis work, and applied project work in analytics, statistics, machine learning, and Python/R-based analysis.
