@@ -6,7 +6,7 @@ I recently completed my Master's in Business Analytics at Católica Lisbon. This
 
 ## Current Focus
 
-**Master’s Thesis Project — Co-Living Tenant Compatibility**  
+**Master’s Thesis — Co-Living Tenant Compatibility**  
 Developed a structured compatibility framework for co-living tenant allocation, combining personality, lifestyle, and apartment-level factors to support more intentional matching and better vacancy-level recommendations.
 
 **Basketball Community / Workout Side Project**  
@@ -45,6 +45,22 @@ Building a basketball-centered community concept in Berlin that combines runs, t
     <img src="https://img.shields.io/badge/LinkedIn-Jasper%20S%C3%A4nger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+## Philosophy
+
+**“Von nichts kommt auch nichts.”**
+
+My dad — a former professional basketball player, heart surgeon, father of four, 2x Ironman, and still a shy, humble, grateful human being — used to say this often when I was young. It stuck with me.
+
+## Random Facts
+
+- Basketball head
+- Music junkie — from deep and dubby electronic music to jazz, soul, and hip hop
+- Three homes: Berlin, Lisbon, and Abu Dhabi
+
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JasperAD11&theme=github-compact&hide_border=true)
 
 ## About This GitHub
 
