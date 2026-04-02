@@ -50,17 +50,13 @@ Building a basketball-centered community concept in Berlin that combines runs, t
 
 **“Von nichts kommt auch nichts.”**
 
-My dad — a former professional basketball player, heart surgeon, father of four, 2x Ironman, and still a shy, humble, grateful human being — used to say this often when I was young. It stuck with me.
+My father used to say this a lot when I was growing up, and it stayed with me. He was a former professional basketball player, later became a heart surgeon, is a father of four, completed two Ironmans, and through all of it remained humble, grounded, and grateful. That mindset shaped me early: effort comes first, and very little moves without intention behind it.
 
 ## Random Facts
 
-- Basketball head
-- Music junkie — from deep and dubby electronic music to jazz, soul, and hip hop
-- Three homes: Berlin, Lisbon, and Abu Dhabi
-
-## GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JasperAD11&theme=github-compact&hide_border=true)
+- Basketball has been a constant in my life for as long as I can remember.
+- My music taste covers a lot of ground — especially deep and dubby electronic music, but also jazz, soul, and hip hop.
+- I feel connected to three places in a real way: Berlin, Lisbon, and Abu Dhabi.
 
 ## About This GitHub
 
