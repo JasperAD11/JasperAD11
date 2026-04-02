@@ -32,7 +32,7 @@ Building a basketball-centered community concept in Berlin that combines runs, t
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-## Find Me Here
+## Contact Me Here
 
 <p>
   <a href="mailto:jaspersaenger@gmail.com">
